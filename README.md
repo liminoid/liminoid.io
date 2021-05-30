@@ -1,30 +1,4 @@
-<div align="center">
-
-  <h1>🔵🔴 liminoid.io 🔴🔵</h1>
-
-<strong>Website and documentation source for the Liminoid project</strong>
-
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://discord.gg/6FdvJka">
-      Chatroom
-    </a>
-    <span> | </span>
-    <a href="https://twitter.com/liminoid_io">
-      Twitter
-    </a>
-    <span> | </span>
-    <a href="https://stackoverflow.com/questions/tagged/liminoid">
-      Stack Overflow
-    </a>
-    <span> | </span>
-    <a href="https://liminoid.io/contributing/">
-      Contributing
-    </a>
-  </h3>
-</div>
+> ⚠️ Package has moved to [run-the-docs](https://www.npmjs.com/package/run-the-docs) and development has moved to [psychothan/run-the-docs](https://github.com/psychothan/run-the-docs) ⚠️
 
 ## Contributing/Requests
 
